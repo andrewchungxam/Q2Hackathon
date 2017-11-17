@@ -136,7 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OfficeDogs.Mobile\OfficeDogs.Mobile.csproj">
-      <Project>{11eee6ac-fd50-4c3c-a163-a367669ab257}</Project>
+      <Project>{871FFCD9-13AD-4727-8E59-48022A9EEE39}</Project>
       <Name>OfficeDogs.Mobile</Name>
     </ProjectReference>
   </ItemGroup>
